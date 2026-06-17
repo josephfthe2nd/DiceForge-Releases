@@ -10,7 +10,7 @@ boolean kernel, so exports are always watertight and print-ready.
 ## Download
 
 Grab the latest **`DiceForge-<version>-win64.zip`** from the
-[**Releases**](https://github.com/josephfthe2nd/DiceForge/releases) page,
+[**Releases**](https://github.com/josephfthe2nd/DiceForge-Releases/releases) page,
 unzip it anywhere, and run **`DiceForge.exe`**. Windows 64-bit — no Python
 required. DiceForge checks for updates on launch.
 
