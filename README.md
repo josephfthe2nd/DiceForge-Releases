@@ -33,11 +33,11 @@ required. DiceForge checks for updates on launch.
 
 ## License
 
-DiceForge is **free for public use** — use it however you like, including to
-design dice that you sell. The application's source is kept in a private
-repository and is **not** licensed for copying, modification, redistribution,
-or rebranding. See [`LICENSE`](LICENSE) for the full terms.
+DiceForge is **free for public and private use** — use it however you like,
+including to design dice that you sell. The application's source is kept in a
+private repository and is **not** licensed for copying, modification,
+redistribution, or rebranding. See [`LICENSE`](LICENSE) for the full terms.
 
 If you use DiceForge to design dice for sale, a
 [**Patreon**](https://www.patreon.com/c/TheNerdocracy?vanity=user) donation
-is greatly appreciated. ❤️
+is greatly appreciated.
