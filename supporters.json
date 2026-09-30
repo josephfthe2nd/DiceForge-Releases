@@ -1,9 +1,11 @@
 {
-  "updated": "2026-07",
+  "updated": "2026-09",
   "tiers": [
-    { "name": "Dukes of the Nerdocracy",  "supporters": [] },
-    { "name": "Lords of the Nerdocracy",  "supporters": [] },
-    { "name": "Counts of the Nerdocracy", "supporters": [] },
-    { "name": "Barons of the Nerdocracy", "supporters": [] }
+    {
+      "name": "Baron of Nerdocracy",
+      "supporters": [
+        "Dirty Oar Dice"
+      ]
+    }
   ]
 }
